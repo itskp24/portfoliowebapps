@@ -25,7 +25,7 @@ export function Hero() {
             transition={{ delay: 0.2 }}
           >
             <a
-              href="/attached_assets/ParthK-(frontend-developer)-1.pdf"
+              href="/dist/assets/ParthK-(frontend-developer)-1.pdf"
               download="ParthK-(frontend-developer)-1.pdf"
             >
               <Button size="lg" className="gap-2">
