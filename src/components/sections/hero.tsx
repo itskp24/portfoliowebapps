@@ -25,15 +25,14 @@ export function Hero() {
             transition={{ delay: 0.2 }}
           >
             <a
-              href="/dist/assets/ParthK-(frontend-developer)-1.pdf"
+              href="/ParthK-(frontend-developer)-1.pdf"
               download="ParthK-(frontend-developer)-1.pdf"
             >
               <Button size="lg" className="gap-2">
                 <FiDownload className="w-5 h-5" />
                 Download Resume
               </Button>
-            </a>
-          </motion.div>
+            </a>          </motion.div>
         </motion.div>
       </div>
     </section>
